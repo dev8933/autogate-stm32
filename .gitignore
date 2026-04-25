@@ -1,0 +1,27 @@
+# STM32CubeIDE
+.project
+.cproject
+.settings/
+Debug/
+Release/
+
+# Build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+
+# Ceedling / Unity test output
+test/build/
+test/results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*~
